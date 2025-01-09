@@ -11,6 +11,7 @@
 - **LinkedIn:** [Felipe Saito](https://www.linkedin.com/in/felipeyukiosaito/)  
 - **Email:** Felipeyukiosaito@gmail.com
 - **Whatsapp:** +55 11 97898-4774
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -121,7 +122,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
+
 <br><br>
+
+---
 
 ### 📊 Estatísticas
 <img
