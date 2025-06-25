@@ -1,6 +1,6 @@
 ## 👨‍💻 Felipe Yukio Saito
 
-**`Desenvolvedor FullStack`**  **`Desenvolvedor Front-End`** **`Desenvolvedor Back-End`**
+**`Desenvolvedor Mobile`**  **`Desenvolvedor Front-End`** 
 
 # 👋 Olá, eu sou Felipe Saito!
 
