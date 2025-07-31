@@ -97,15 +97,6 @@
 
 <img 
     align="left" 
-    alt="MongoDB" 
-    title="MongoDB" 
-    width="30px" 
-    style="padding-right: 5px; margin-top: 0px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Git" 
     title="Git" 
     width="30px" 
