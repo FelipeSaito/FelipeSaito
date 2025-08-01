@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou Felipe Saito!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º período) na Unifecaf em Taboão da Serra, Gosto de tecnologia, com 20 anos tenho interesse tanto em front-end quanto em back-end, atualmente trabalhando no projeto MindSpark e RyusakaTech sempre buscando aprender e criar algo novo.
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela instituição Unifecaf em Taboão da Serra, Gosto de tecnologia, com 21 anos tenho interesse tanto em front-end quanto em back-end.
 
 ## 📫 Entre em Contato
 
