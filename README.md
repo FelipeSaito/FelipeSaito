@@ -20,7 +20,7 @@
 
 <p align="center">
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=FelipeSaito&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+       src="https://github-readme-stats.vercel.app/api?username=FelipeSaito&show_icons=true&theme=tokyonight&cache_seconds=86400" />](https://github-readme-stats.vercel.app/api?username=FelipeSaito&show_icons=true)
   <img src="https://streak-stats.demolab.com?user=FelipeSaito&theme=tokyonight&cache_seconds=86400" />
 
 </p>
