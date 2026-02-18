@@ -27,10 +27,10 @@
 <div align="center">
   
   <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api?username=FelipeSaito&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeSaito&show_icons=true&theme=tokyonight" />
   
   <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSaito&layout=compact&theme=tokyonight&cache_seconds=86400" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeSaito&layout=compact&theme=tokyonight" />
 
 </div>
 
