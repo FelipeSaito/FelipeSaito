@@ -16,7 +16,7 @@
 - **Email:** Felipeyukiosaito@gmail.com
 - **Whatsapp:** +55 11 97898-4774
 
-## 📊 Status
+## ⚡ Status
 
 <div align="center">
 
@@ -28,6 +28,11 @@
 <img
   height="180em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSaito&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
+/>
+
+<img
+  height="180em"
+  src="https://streak-stats.demolab.com?user=FelipeSaito&theme=tokyonight&locale=pt_BR"
 />
 
 </div>
