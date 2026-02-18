@@ -16,7 +16,17 @@
 - **Email:** Felipeyukiosaito@gmail.com
 - **Whatsapp:** +55 11 97898-4774
 
-## 📊 Status
+## 🚀 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" 
+  src="https://github-readme-stats.vercel.app/api?username=FelipeSaito&show_icons=true&theme=tokyonight" />
+
+<img width="49%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSaito&layout=compact&theme=tokyonight" />
+
+</div>
 
 <p align="center">
   <img height="180"
