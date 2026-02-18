@@ -5,6 +5,9 @@
 # 👋 Olá, eu sou Felipe Saito!
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas pela instituição Unifecaf em Taboão da Serra, Gosto de tecnologia, com 21 anos tenho interesse tanto em front-end quanto em back-end.
+🎓 Atualmente cursando Pós-Graduação Lato Sensu em Front-End Engineering (Pos-Tech) pela FIAP, com foco em arquitetura de aplicações modernas, design systems, performance, boas práticas de UI/UX e desenvolvimento escalável com React e ecossistema JavaScript. A especialização tem ampliado minha visão estratégica sobre construção de interfaces, experiência do usuário e engenharia de software aplicada ao mercado.
+
+
 
 ## 📫 Entre em Contato
 
