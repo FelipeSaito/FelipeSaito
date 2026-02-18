@@ -24,7 +24,7 @@
 
 ## 🚀 GitHub Analytics
 
-<div align="center">
+<div align="left">
   
   <img width="49%" 
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeSaito&show_icons=true&theme=tokyonight" />
@@ -34,7 +34,7 @@
 
 </div>
 
-<p align="center">
+<p align="left">
   <img width="70%"
        src="https://streak-stats.demolab.com?user=FelipeSaito&theme=tokyonight&cache_seconds=86400" />
 </p>
