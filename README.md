@@ -16,13 +16,13 @@
 - **Email:** Felipeyukiosaito@gmail.com
 - **Whatsapp:** +55 11 97898-4774
 
-## Git Status
+## 📊 Status
+
 <p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=FelipeSaito&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSaito&layout=compact&theme=tokyonight" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=FelipeSaito&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSaito&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ### 🤖 Linguagens e Tecnologias
