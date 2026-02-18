@@ -27,10 +27,10 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSaito&layout=compact&theme=tokyonight" />
 
 </div>
-
 <p align="center">
   <img height="180"
-  <img src="https://streak-stats.demolab.com?user=FelipeSaito&theme=tokyonight&cache_seconds=86400" />
+       src="https://streak-stats.demolab.com?user=FelipeSaito&theme=tokyonight&cache_seconds=86400" />
+</p>
 
 </p>
 
